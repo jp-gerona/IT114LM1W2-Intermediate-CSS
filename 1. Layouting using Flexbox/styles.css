@@ -39,9 +39,11 @@
 
 /* TODO 1 */
 .todo-1-container {
-    /* TODO 1.1.1 Set the display of this div to flex*/
-    /* TODO 1.1.2 Set the flex direction to row. Then set it to column. What's the difference?*/
-    /* Answer: */
+    /* DONE 1.1.1 Set the display of this div to flex*/
+    display: flex;
+    flex-direction: column;
+    /* DONE 1.1.2 Set the flex direction to row. Then set it to column. What's the difference?*/
+    /** Answer: It changed back to its original position (but with a slight space in-between numbers) when set to column. */
     /* TODO 1.1.3 Set the flex direction to row. Then enable flex wrap. What does wrap do? */
     /* Answer: */
     /* Todo 1.1.4 Set the gap of the container to 10px. Now change it to 20px. What does gap do? */
