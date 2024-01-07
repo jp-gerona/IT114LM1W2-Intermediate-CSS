@@ -18,7 +18,7 @@
 
 
 
-/* Todo 2.1: Define and apply CSS styles such that the background of .change-styles changes to
+/* DONE 2.1: Define and apply CSS styles such that the background of .change-styles changes to
 a different color when the screen is smaller than 500px*/
 .change-styles{
     width: 100%;
@@ -32,7 +32,7 @@ a different color when the screen is smaller than 500px*/
     }
 }
 
-/* Todo 2.2: Define and apply CSS styles such that the layout of .change-layout becomes a column
+/* DONE 2.2: Define and apply CSS styles such that the layout of .change-layout becomes a column
 when the screen's width is smaller than 500px */
 .change-layout{
     display: flex;
@@ -46,7 +46,7 @@ when the screen's width is smaller than 500px */
 }
 
 
-/* Todo 2.3: Define the common breakpoints for devices - phone, tablet, small screens (laptop), and large screens (desktops).
+/* DONE 2.3: Define the common breakpoints for devices - phone, tablet, small screens (laptop), and large screens (desktops).
 For each break point, the background of .common-breakpoints must change
 */
 .common-breakpoints{
